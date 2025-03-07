@@ -1,10 +1,10 @@
 ### Hi there, I'm Stan! 👋
 
 ## I'm a passionate freelance Laravel web developer with over 20 years of experience
-[Hire me on Upwork](http://upwork.com/freelancers/~018b261e479ea755dd)
 
+[<img src="https://github.com/user-attachments/assets/0814255d-5174-4a79-8a9e-6489f5a28f11" width="140"><br>Hire me on Upwork](http://upwork.com/freelancers/~018b261e479ea755dd)
 
-[<img src="https://github.com/user-attachments/assets/0814255d-5174-4a79-8a9e-6489f5a28f11" width="140">](http://upwork.com/freelancers/~018b261e479ea755dd)
+[Check my CV/Resume](https://plakhin.com/cv)
 
 #### Throughout my career, I've had the great experience of developing and implementing a wide range of critical business systems
 - I build web applications specializing in medium to large-scale projects

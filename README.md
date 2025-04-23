@@ -10,6 +10,7 @@
 - Vue.JS, React, Alpine.JS / Javascript, Typescript
 - Pest / PHPUnit & Larastan / PHPStan
 - PostgreSQL, SingleStore DB, MySQL, SQLite
+- GitHub Actions
 
 ---
 [Upwork Profile](http://upwork.com/freelancers/~018b261e479ea755dd) | [X](https://x.com/plakhin)
